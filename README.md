@@ -1,6 +1,6 @@
 # Master-Automation
 
-<img width="1536" height="1024" alt="LOgoGerha" src="https://github.com/user-attachments/assets/15e2cfe7-75d7-410a-96a4-daf64a331d04" />
+<img width="800" height="500" alt="LOgoGerha" src="https://github.com/user-attachments/assets/15e2cfe7-75d7-410a-96a4-daf64a331d04" />
 
 
 ##Codigo del master en automatizacion de pruebas Selenium 4 y Java
