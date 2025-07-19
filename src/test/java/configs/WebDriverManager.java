@@ -17,7 +17,10 @@ public class WebDriverManager {
             options.setExperimentalOption("excludeSwitches", new String[]{"enable-automation"});
             options.setExperimentalOption("useAutomationExtension", false);
             options.addArguments("--disable-blink-features=AutomationControlled");
+            options.addArguments("--disable-notifications");
+            options.addArguments("--disable-infobars");
             options.addArguments("--start-maximized");
+            options.addArguments("--disable-save-password-bubble");
 
             driver = new ChromeDriver(options);
         }
